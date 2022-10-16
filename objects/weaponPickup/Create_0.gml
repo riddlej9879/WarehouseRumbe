@@ -1,0 +1,1 @@
+weaponType = choose(machineGunObject, shotgunObject, rocketGunObject, machinePistolObject)
